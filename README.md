@@ -19,5 +19,16 @@
 ---
 
 ### 📫 Как со мной связаться:
-* **Telegram:** [@твой_юзернейм]
-* **Email:** [твой_email]
+* **Telegram:** [@Kanneki_ken0]
+* **Email:** [ahrorkan2005@gmail.com]
+* ---
+
+### 📊 Моя статистика на GitHub:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kannekiken0&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Kannekiken0's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kannekiken0&layout=compact&theme=dark" alt="Top Langs" />
+</p>
